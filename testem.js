@@ -9,6 +9,7 @@ module.exports = {
   launch_in_dev: [
     'Chrome'
   ],
+  reporter: 'xunit',
   browser_start_timeout: 120,
   browser_args: {
     Chrome: {
